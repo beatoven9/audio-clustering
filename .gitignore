@@ -1,0 +1,4 @@
+venv
+music-classification-wav
+.ipynb_checkpoints
+features.pkl
